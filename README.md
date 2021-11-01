@@ -7,4 +7,4 @@
   <li>CSS (Flex Box)</li>
 </p>
   
- <p><a href="mikecalo.github.io/landing-page">Live Preview</a> </p>
+ <p><a href="https://mikecalo.github.io/landing-page">Live Preview</a> </p>
