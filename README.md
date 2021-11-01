@@ -1,7 +1,9 @@
 The Odin Project Landing Page Project. 
 
 Skills:
-  HMTL
-  CSS (Flex Box)
+  <ul>
+  <li>HMTL</li>
+  <li>CSS (Flex Box)</li>
   
-  Live Preview: mikecalo.github.io/landing-page
+  
+  Live Preview: <a href=mikecalo.github.io/landing-page</a>
