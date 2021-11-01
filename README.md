@@ -5,5 +5,4 @@ Skills:
   <li>HMTL</li>
   <li>CSS (Flex Box)</li>
   
-  
-  Live Preview: <a href=mikecalo.github.io/landing-page</a>
+  <a href=mikecalo.github.io/landing-page>Live Preview</a>
